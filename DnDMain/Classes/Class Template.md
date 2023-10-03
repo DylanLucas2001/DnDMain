@@ -1,3 +1,5 @@
+## **Class Table**
+
 | Level         | Bonus         | Features      | 
 | ------------- | ------------- | ------------- |
 | 1st           |||
@@ -21,13 +23,8 @@
 | 19st          |||
 | 20st          |||
 
-<details>
-<summary> ## Class Table</summary>
-dropdown <br>
-dropdown <br>
-dropdown <br>
-dropdown <br>
-dropdown <br>
-</details>
 
 ## **Class Features**
+### Hit Dice
+### Proficiencies
+### Equipment
