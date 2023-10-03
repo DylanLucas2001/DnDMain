@@ -31,7 +31,10 @@
 ### Traits(By level)
 #### Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
-While raging, you gain the following benefits if you aren't wearing armour
-- You have advantage on Strength checks and Strength saving th
+While raging, you gain the following benefits if you aren't wearing armor.
+- You have advantage on Strength checks and Strength saving throws.
+- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage Column of the Barbarian table.
+- You have resistance to bludgeoning, piercing and slashing damage
+
 
 ## **Subclasses**
