@@ -58,5 +58,5 @@ At 2nd level, you gain an uncanny sense of when things nearby aren't what they s
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells.
 To gain this effect you can't be blinded, deafened, or incapacitated
 #### Level 3
-#####
+##### Primal Path
 ## **Subclasses**
