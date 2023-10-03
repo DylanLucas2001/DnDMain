@@ -33,8 +33,18 @@
 **Armor**: Light armor, medium armor, shields
 **Weapons**: Simple weapons, Martial weapons
 **Tools**: None
-****
+**Saving throws**: Strength, Constitution
+**Skills**: Choose two from:
+- Animal Handling
+- Athletics
+- Intimidation
+- Nature
+- Perception
+- Survival
 ### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- a greataxe OR any material melee weapon
+- tw
 ### Traits(By level)
 #### Level 1
 ##### Rage
