@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "9a248caac88ad353",
+        "id": "5ea5294a0b876e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "323938f16c5ed433",
+            "id": "8aaf6fcfc04dd739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Races.md",
+                "file": "Classes/Classes.md",
                 "mode": "preview",
                 "source": true
               }
