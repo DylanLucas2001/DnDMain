@@ -50,5 +50,7 @@ You must take a long rest to replenish rages.
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier
 #### Level 2
 ##### Reckless Attack
-Starting at second level,  
+Starting at second level, you can throw aside all concern for defense to attack with fierce desperation. 
+when you make your first attack on your turn, you can decide to attack recklessly.
+Doing so gives you advantage on melee weapon attack rolls
 ## **Subclasses**
