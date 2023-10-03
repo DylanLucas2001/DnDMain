@@ -30,6 +30,8 @@
 ### Equipment
 ### Traits(By level)
 #### Rage
-
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+While raging, you gain the following benefits if you aren't wearing armour
+- You have advantage on Strength checks and Strength saving th
 
 ## **Subclasses**
