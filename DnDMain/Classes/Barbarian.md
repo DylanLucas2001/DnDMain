@@ -2,7 +2,7 @@
 
 | Level  | Proficiency Bonus | Features          | Rages              |Rage Damage |
 | -------| ----------------- | ----------------- | -----------------  | ----------------- |
-| 1st    | +2 |[[]], Unarmoured Defence|||
+| 1st    | +2 |[Rage](Barbarian.md#Level%201#Rage), Unarmoured Defence|||
 | 2st    | +2 ||||
 | 3st    | +2 ||||
 | 4st    | +2 ||||
