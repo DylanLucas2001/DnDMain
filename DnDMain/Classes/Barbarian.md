@@ -26,6 +26,7 @@
 
 ## **Class Features**
 ### Hit Dice
+Hit Dice: 1d12 per Barba
 ### Proficiencies
 ### Equipment
 ### Traits(By level)
