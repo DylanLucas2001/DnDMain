@@ -44,7 +44,8 @@
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 - a greataxe OR any material melee weapon
-- tw
+- two handaxes OR any simple weapon
+- An explorer's pack and 4 javelins
 ### Traits(By level)
 #### Level 1
 ##### Rage
