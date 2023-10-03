@@ -50,7 +50,10 @@ You must take a long rest to replenish rages.
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier
 #### Level 2
 ##### Reckless Attack
-Starting at second level, you can throw aside all concern for defense to attack with fierce desperation. 
+Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. 
 when you make your first attack on your turn, you can decide to attack recklessly.
-Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you
+Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until next turn.
+##### Danger Sense
+At 2nd level, you gain an uncanny sense of when things nearby aren't what they should be, giving you an edge when you dodge away from danger.
+You have advantage on Dexterity saving throws against effects that you can see
 ## **Subclasses**
