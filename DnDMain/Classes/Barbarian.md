@@ -49,5 +49,6 @@ You must take a long rest to replenish rages.
 ##### Unarmored Defense 
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier
 #### Level 2
-
+##### Reckless Attack
+Starting at second level 
 ## **Subclasses**
