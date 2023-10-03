@@ -29,12 +29,18 @@
 ### Proficiencies
 ### Equipment
 ### Traits(By level)
-#### Rage
+#### Level 1
+##### Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
 While raging, you gain the following benefits if you aren't wearing armor.
 - You have advantage on Strength checks and Strength saving throws.
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage Column of the Barbarian table.
 - You have resistance to bludgeoning, piercing and slashing damage
-You cannot cast or concentrate on spells when raging
+
+You cannot cast or concentrate on spells while raging
+Rage lasts for 1 minute(10 combat rounds)
+Rage ends early if :
+- You are knocked unconscious
+- Your turn ends and you haven't attacked an enemie sin
 
 ## **Subclasses**
