@@ -3,7 +3,7 @@
 | Level  | Proficiency Bonus | Features          | Rages              |Rage Damage |
 | -------| ----------------- | ----------------- | -----------------  | ----------------- |
 | 1st    | +2 |[Rage](Barbarian.md#Level%201#Rage),[Unarmored Defense](Barbarian.md#Level%201#Unarmored%20Defense)| 2 | +2 |
-| 2st    | +2 ||2|+2|
+| 2st    | +2 |[Reckless Attack](Barbarian.md#Level%202#Reckless%20Attack),[Danger Sense](Barbarian.md#Level%202#Danger%20Sense)|2|+2|
 | 3st    | +2 ||3|+2|
 | 4st    | +2 ||3|+2|
 | 5st    | +3 ||3|+2|
