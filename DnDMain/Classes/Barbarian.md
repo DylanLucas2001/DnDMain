@@ -26,8 +26,14 @@
 
 ## **Class Features**
 ### Hit Dice
-Hit Dice: 1d12 per Barba
+**Hit Dice**: 1d12 per Barbarian level
+**Hit points at 1st level**: 12 + Constitution Modifier
+**Hit points at higher Levels**: 1D12(or 7) + Constitution Modifier per barbarian level  after 1st
 ### Proficiencies
+**Armor**: Light armor, medium armor, shields
+**Weapons**: Simple weapons, Martial weapons
+**Tools**: None
+****
 ### Equipment
 ### Traits(By level)
 #### Level 1
