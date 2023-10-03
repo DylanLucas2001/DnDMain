@@ -1,6 +1,5 @@
 ## **Player's Handbook**
 <details>
-<summary></summary>
-<br>
+<summary> ## **Player's Handbook</summary>
 This is how you dropdown.
 </details>
