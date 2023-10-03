@@ -6,6 +6,7 @@
       {
         "id": "5ea5294a0b876e4b",
         "type": "tabs",
+        "dimension": 47.46192893401015,
         "children": [
           {
             "id": "8aaf6fcfc04dd739",
@@ -24,6 +25,7 @@
       {
         "id": "92f08dbce38a1630",
         "type": "tabs",
+        "dimension": 52.53807106598985,
         "children": [
           {
             "id": "7bb4eafb0a866b9a",
@@ -165,11 +167,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8aaf6fcfc04dd739",
+  "active": "7bb4eafb0a866b9a",
   "lastOpenFiles": [
-    "Classes/Class Template.md",
-    "Classes/Barbarian.md",
     "Classes/Classes.md",
+    "Classes/Barbarian.md",
+    "Classes/Class Template.md",
     "Races/Races.md",
     "Races.md",
     "Books/Player's Handbook",
