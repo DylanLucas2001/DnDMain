@@ -2,26 +2,26 @@
 
 | Level  | Proficiency Bonus | Features          | Rages              |Rage Damage |
 | -------| ----------------- | ----------------- | -----------------  | ----------------- |
-| 1st    | +2 |[Rage](Barbarian.md#Level%201#Rage), Unarmoured Defence|||
-| 2st    | +2 ||||
-| 3st    | +2 ||||
-| 4st    | +2 ||||
-| 5st    | +3 ||||
-| 6st    | +3 ||||
-| 7st    | +3 ||||
-| 8st    | +3 ||||
-| 9st    | +4 ||||
-| 10st   | +4 ||||
-| 11st   | +4 ||||
-| 12st   | +4 ||||
-| 13st   | +5 ||||
-| 14st   | +5 ||||
-| 15st   | +5 ||||
-| 16st   | +5 ||||
-| 17st   | +6 ||||
-| 18st   | +6 ||||
-| 19st   | +6 ||||
-| 20st   | +6 ||||
+| 1st    | +2 |[Rage](Barbarian.md#Level%201#Rage),[Unarmored Defense](Barbarian.md#Level%201#Unarmored%20Defense)| 2 | +2 |
+| 2st    | +2 ||2|+2|
+| 3st    | +2 ||3|+2|
+| 4st    | +2 ||3|+2|
+| 5st    | +3 ||3|+2|
+| 6st    | +3 ||4|+2|
+| 7st    | +3 ||4|+2|
+| 8st    | +3 ||4|+2|
+| 9st    | +4 ||4|+3|
+| 10st   | +4 ||4|+3|
+| 11st   | +4 ||4|+3|
+| 12st   | +4 ||5|+3|
+| 13st   | +5 ||5|+3|
+| 14st   | +5 ||5|+3|
+| 15st   | +5 ||5|+3|
+| 16st   | +5 ||5|+4|
+| 17st   | +6 ||6|+4|
+| 18st   | +6 ||6|+4|
+| 19st   | +6 ||6|+4|
+| 20st   | +6 ||unlimited|+4|
 
 
 ## **Class Features**
@@ -49,4 +49,5 @@ You must take a long rest to replenish rages.
 ##### Unarmored Defense 
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier
 #### Level 2
+
 ## **Subclasses**
