@@ -42,6 +42,11 @@ Rage lasts for 1 minute(10 combat rounds)
 Rage ends early if :
 - You are knocked unconscious
 - Your turn ends and you haven't attacked a hostile creature or taken damage since then
-- 
+- You use a bonus action to end it early
+
+You must take a long rest to replenish rages.
+
+#### Unarmored Defense 
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier
 
 ## **Subclasses**
