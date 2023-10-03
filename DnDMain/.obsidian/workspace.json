@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Class Template.md",
+                "file": "Classes/Barbarian.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "df71bc029c5e31ea",
+        "id": "92f08dbce38a1630",
         "type": "tabs",
         "children": [
           {
-            "id": "7acf52aed3387edb",
+            "id": "7bb4eafb0a866b9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Class Template.md",
+                "file": "Classes/Barbarian.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Class Template.md",
+                "file": "Classes/Barbarian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Class Template.md",
+                "file": "Classes/Barbarian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Class Template.md"
+                "file": "Classes/Barbarian.md"
               }
             }
           }
@@ -165,10 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7acf52aed3387edb",
+  "active": "7bb4eafb0a866b9a",
   "lastOpenFiles": [
-    "Classes/Classes.md",
     "Classes/Class Template.md",
+    "Classes/Barbarian.md",
+    "Classes/Classes.md",
     "Races/Races.md",
     "Races.md",
     "Books/Player's Handbook",
