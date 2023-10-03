@@ -41,6 +41,7 @@ You cannot cast or concentrate on spells while raging
 Rage lasts for 1 minute(10 combat rounds)
 Rage ends early if :
 - You are knocked unconscious
-- Your turn ends and you haven't attacked an enemie sin
+- Your turn ends and you haven't attacked a hostile creature or taken damage since then
+- 
 
 ## **Subclasses**
