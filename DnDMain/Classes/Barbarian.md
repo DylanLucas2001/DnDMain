@@ -55,5 +55,6 @@ when you make your first attack on your turn, you can decide to attack recklessl
 Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until next turn.
 ##### Danger Sense
 At 2nd level, you gain an uncanny sense of when things nearby aren't what they should be, giving you an edge when you dodge away from danger.
-You have advantage on Dexterity saving throws against effects that you can see
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells.
+To gain this effect you can't be blinded, deafened, or incapacitated
 ## **Subclasses**
