@@ -11,8 +11,12 @@
             "id": "03ed80098025e7b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Races/Races.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Races/Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Races/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races.md"
+                "file": "Races/Races.md"
               }
             }
           }
@@ -141,9 +147,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c555f33e945638ee",
+  "active": "03ed80098025e7b6",
   "lastOpenFiles": [
-    "Races/Race Info.md",
+    "Races/Races.md",
+    "Races/Races.md",
     "Races.md",
     "Books/Player's Handbook",
     "Classes/Player's Handbook",
